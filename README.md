@@ -1,4 +1,6 @@
 ![Header](./github-header-image.png)
+<h2 align="center">
+<div id="header" align="center">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmcxc2t6ZnUwdmFsNnJrcWFkcTY4emo4anVsb213b3F5dmowYnRhMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J9HDdEWq7rAs1hu/giphy.gif"/>
 </div>
 <div id="badges">
