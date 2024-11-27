@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 <h1 align="center">Hi there 👋  </h1>
 <h2 align="center">
 <div id="header" align="center">
