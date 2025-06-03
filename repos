@@ -1,0 +1,158 @@
+AI-Powered Security Tools (AI/ML & Automation in Cybersecurity)
+cai – ★ 0 – Last updated May 30, 2025 – Cybersecurity AI (CAI), an open bug-bounty-ready artificial intelligence platform. Tags: AI Security, Automation
+agent_crewai-ollama – ★ 0 – Last updated May 22, 2025 – CrewAI agentic application utilizing Ollama/LLaMA for task automation. Tags: AI Agents, Automation
+CrewAI_RedTeam – ★ 0 – Last updated May 14, 2025 – (Fork) AI-driven Red Team toolkit based on the CrewAI framework. Tags: Red Team, AI
+AP_Artifact – ★ 0 – Last updated Apr 11, 2025 – Original project. Automates the penetration testing process using an LLM with Retrieval-Augmented Generation and related techniques. Tags: AI Security, Penetration Testing
+ai-pentest – ★ 0 – Last updated Apr 3, 2025 – (Fork) CrewAI project applying AI agents to cybersecurity testing tasks. Tags: AI Agents, Penetration Testing
+pentest-agent-system – ★ 0 – Last updated Mar 22, 2025 – (Fork) Autonomous penetration testing framework built on MITRE ATT&CK and AI agents. Tags: AI Security, Red Team
+Automated-pentesting-Tool – ★ 0 – Last updated Mar 1, 2025 – (Fork) “CyberX” AI-driven penetration testing tool for scanning websites (ports, SQLi, XSS, etc.) and finding vulnerabilities and leaks. Tags: AI Security, Vulnerability Scanning
+exploit-payload-generator-ai-agent – ★ 0 – Last updated Feb 17, 2025 – (Fork) Local AI-agent tool that generates and validates advanced exploit payloads using the CrewAI framework. Tags: AI Agents, Exploitation
+LLMAgentCybersecPentest – ★ 0 – Last updated Jan 27, 2025 – (Fork) LLM-Managed Agent for cybersecurity pentesting based on CrewAI. Tags: AI Security, Automation
+crew-Ai-cyber – ★ 0 – Last updated Jan 22, 2025 – (Fork) CrewAI hackathon project focusing on website security and threat detection via AI-driven agents. Tags: AI Security, Threat Detection
+zenfu_ai_lawfirm – ★ 0 – Last updated Jan 10, 2025 – (Fork) Virtual law firm powered by CrewAI agents (specialized “lawyer” agents delegated by a manager agent). Tags: AI Agents, Automation
+document_ai_agents – ★ 0 – Last updated Jan 5, 2025 – (Fork) Reusable AI agents for document processing tasks (e.g. parsing, Q&A). Tags: AI, Document Processing
+ThreatIntelRAG – ★ 0 – Last updated Nov 29, 2024 – (Fork) Experimental Retrieval-Augmented Generation system that consumes cybersecurity RSS feeds to answer questions. Tags: Threat Intelligence, NLP, AI
+crewai-customer-support-app-with-memory – ★ 0 – Last updated Nov 9, 2024 – (Fork) CrewAI project for automating customer support tasks with memory-enabled agents and tools. Tags: AI Agents, Automation
+TARS – ★ 0 – Last updated Oct 8, 2024 – (Fork) Platform using autonomous agents to automate penetration testing workflows. Tags: AI Security, Penetration Testing
+knowledge_graph – ★ 0 – Last updated Dec 17, 2023 – (Fork) Tool to convert text into a knowledge graph for Graph-Augmented AI generation or Q&A. Tags: AI, Knowledge Graphs
+AutoGPT – ★ 0 – Last updated Oct 19, 2023 – (Fork) Experimental open-source attempt to make GPT-4 fully autonomous (general AI agent). Tags: Autonomous AI, Experimental
+gpt4-pdf-chatbot-langchain – ★ 0 – Last updated Oct 19, 2023 – (Fork) GPT-4 & LangChain based chatbot for querying large PDF documents. Tags: AI, Chatbot, NLP
+local-rag – ★ 0 – Last updated Oct 2, 2023 – (Fork) A local Retrieval-Augmented-Generation demo application. Tags: AI, RAG
+PGPT – ★ 0 – Last updated May 10, 2023 – (Fork) “1337GPT” – a GPT-based penetration testing agent that automates hacking tasks. Tags: AI Security, Pentest Agent
+cdQnA – ★ 0 – Last updated May 3, 2023 – (Fork) Project for closed-domain question answering with large language models. Tags: AI, Q&A System
+marina-andrax-port – ★ 0 – Last updated Dec 30, 2022 – (Fork) Andrax AI Pentest – open-source code related to an AI-based pentesting tool (“Marina” by Andrax). Tags: AI Security, Pentesting AI
+
+
+Offensive Security & Pentesting (Red Team Tools & Exploitation)
+Veil-Evasion – ★ 0 – Last updated May 1, 2025 – (Fork) Toolkit for generating payloads that bypass antivirus solutions. Tags: AV Evasion, Exploitation
+PenTestScripts – ★ 0 – Last updated May 1, 2025 – (Fork) Collection of useful scripts for penetration tests. Tags: Pentesting, Scripting
+mcp-external-recon-server – ★ 0 – Last updated Apr 11, 2025 – (Fork) External reconnaissance server (Micro Certification Program project) for offensive engagements. Tags: Reconnaissance, Offensive
+Cloud-Pentest-Automation – ★ 0 – Last updated Mar 20, 2025 – Original project. Scripts for automating cloud penetration testing processes. Tags: Cloud Security, Pentesting
+PTST – ★ 0 – Last updated Mar 12, 2025 – Original project. An automated penetration testing tool (Pentest Toolset). Tags: Pentesting, Automation
+AdaptixC2 – ★ 0 – Last updated Mar 1, 2025 – (Fork) Adaptix C2 – a command-and-control framework (written in C) for red team operations. Tags: C2 Framework, Red Team
+Automated-Pentest-Tool – ★ 0 – Last updated Mar 21, 2025 – (Fork) Automated website penetration testing tool (non-AI) for scanning and finding common vulnerabilities. Tags: Pentesting, Vulnerability Scanning
+evilqr – ★ 0 – Last updated Jul 5, 2023 – (Fork) Proof-of-concept toolkit demonstrating dynamic QR code swap phishing attacks. Tags: Phishing, Social Engineering
+squarephish – ★ 0 – Last updated Apr 17, 2023 – (Fork) Phishing campaign toolkit (by Secureworks) for automating phishing operations. Tags: Phishing, Red Team
+Yuki-Chan-The-Auto-Pentest – ★ 0 – Last updated Apr 20, 2018 – (Fork) Automated penetration testing tool (Yuki Chan) for vulnerability scanning and information gathering. Tags: Pentesting, Automation
+Banzai – ★ 0 – Last updated Jan 25, 2018 – Original project. Automated security assessment tool deployed with Docker Compose. Tags: Pentesting, Automation
+pupy – ★ 0 – Last updated Dec 4, 2017 – (Fork) Cross-platform remote administration tool (RAT) for post-exploitation (Windows, Linux, OSX, Android). Tags: RAT, Post-Exploitation
+MaliciousMacroGenerator – ★ 0 – Last updated Nov 23, 2017 – (Fork) Malicious Office macro generator for red team use (e.g. generating weaponized Excel/Word macros). Tags: Exploitation, Red Team
+DoubleAgent – ★ 0 – Last updated Mar 22, 2017 – (Fork) Proof-of-concept zero-day technique for code injection and persistence on Windows (DoubleAgent). Tags: Exploitation, Windows
+EXOCET-AV-Evasion – ★ 0 – Last updated Oct 13, 2021 – (Fork) EXOCET – an undetectable payload generator for antivirus evasion. Tags: AV Evasion, Payload
+mortar – ★ 0 – Last updated Jan 14, 2022 – (Fork) Evasion technique toolkit to defeat detection by AV/EDR/XDR security products. Tags: EDR Evasion, Red Team
+revsuit – ★ 0 – Last updated Jan 9, 2022 – (Fork) Reverse connection platform (RevSuit) for handling reverse shells and connections from target hosts. Tags: Post-Exploitation, C2
+Hack-Tools – ★ 0 – Last updated Feb 25, 2022 – (Fork) All-in-one browser extension with red team tools for web penetration testers. Tags: Web Pentest, Browser Extension
+win-brute-logon – ★ 0 – Last updated Dec 1, 2021 – (Fork) Windows password brute-force tool (crack local Windows user passwords without elevated privileges). Tags: Password Cracking, Windows
+GoMapEnum – ★ 0 – Last updated Mar 4, 2022 – (Fork) User enumeration and password brute-force tool targeting Azure, ADFS, OWA, Office365, Teams, etc. Tags: Password Bruteforce, Cloud
+Snaffler – ★ 0 – Last updated Mar 4, 2022 – (Fork) File and asset discovery tool to help pentesters find “juicy” files in Windows/AD environments. Tags: Post-Exploitation, Discovery
+payloadGenerator – ★ 0 – Last updated Jun 12, 2021 – (Fork) Utility to generate obfuscated Meterpreter shells (payload generation for Metasploit). Tags: Exploitation, Payload
+bash-bunny-unicorn-payload-generator – ★ 0 – Last updated Jan 2, 2018 – (Fork) Python tool to generate a Hak5 Bash Bunny payload using TrustedSec’s Unicorn PowerShell attack script. Tags: Hardware Implant, Payload
+wifiphisher – ★ 0 – Last updated Feb 12, 2017 – (Fork) Automated Wi-Fi phishing attack tool to capture credentials by imitating captive portals. Tags: Wireless, Phishing
+powershell_scripts – ★ 0 – Last updated Feb 23, 2017 – (Fork) Miscellaneous PowerShell scripts (likely for offensive and admin tasks). Tags: Scripting, PowerShell
+Misc-PowerShell-Stuff – ★ 0 – Last updated Feb 10, 2017 – (Fork) Random PowerShell “goodies” (various scripts and exploits in PowerShell). Tags: PowerShell, Exploits
+Red-Team-Infrastructure-Automation – ★ 0 – Last updated Feb 1, 2019 – (Fork) Terraform scripts for setting up disposable, resilient red team infrastructure in cloud environments. Tags: Red Team, Infrastructure
+Ridter/Pentest (fork) – ★ 0 – Last updated May 13, 2017 – (Fork) Collection of pentesting tools and exploits (general “Pentest” toolkit repository). Tags: Pentesting, Exploits
+DKMC – ★ 0 – Last updated May 30, 2017 – (Fork) “Don’t Kill My Cat” – a tool for creating payloads that evade detection by converting them into images. Tags: AV Evasion, Steganography
+MsfMania – ★ 0 – Last updated Jan 15, 2022 – (Fork) Collection of AV-evasion tools and techniques for Metasploit (bypassing antivirus when using Metasploit payloads). Tags: Metasploit, AV Evasion
+Vulnnr – ★ 0 – Last updated Jan 15, 2022 – (Fork) Vulnerability scanner and mass exploiter tool (Vulnnr). Tags: Vulnerability Scanning, Exploitation
+MyNotes – ★ 0 – Last updated Jan 15, 2022 – (Fork) Personal notes and command references for pentesting (shared by user pentestw0rkerbit0). Tags: Reference, Pentesting
+PayloadsAllTheThings – ★ 0 – Last updated Jan 15, 2022 – (Fork) Huge collection of useful payloads and bypasses for web app security, CTFs, etc. Tags: Payloads, Web Security
+awesome-CobaltStrike – ★ 0 – Last updated Aug 7, 2021 – (Fork) Curated list of resources for Cobalt Strike (tips, plugins, etc.). Tags: C2, Resource List
+Cheatsheet-God – ★ 0 – Last updated Jul 8, 2021 – (Fork) Comprehensive penetration testing “reference bank” (cheat sheets) for OSCP, CRTE, etc. Tags: Cheat Sheet, Offensive Security
+Privilege-Escalation – ★ 0 – Last updated Jan 3, 2021 – (Fork) Cheat sheet aimed at CTF players and beginners covering Windows and Linux privilege escalation fundamentals. Tags: Cheat Sheet, Privilege Escalation
+OSEP-Code-Snippets – ★ 0 – Last updated Dec 11, 2021 – (Fork) Notable code snippets and scripts from the PEN-300 (OSEP) course. Tags: Offensive Training, Scripts
+Red-Team-Infrastructure-Wiki – ★ 0 – Last updated Feb 28, 2017 – (Fork) Wiki of resources and best practices for hardening and using red team infrastructure. Tags: Red Team, Guide
+Offensivesecurity-Checklists – ★ 0 – Last updated Oct 19, 2023 – (Fork) Practical checklists for offensive security testing scenarios (pentest engagement checklists). Tags: Pentest, Checklist
+infosec-cheat-sheets – ★ 0 – Last updated Feb 6, 2022 – (Fork) Collection of publicly available cheat sheets covering a variety of InfoSec tools and networking concepts (compiled for students). Tags: Cheat Sheet, General Security
+Cheatsheets-1 – ★ 0 – Last updated Apr 11, 2017 – (Fork) Compilation of penetration testing and security cheat sheets. Tags: Cheat Sheet, Offensive Security
+
+
+OSINT & Reconnaissance (Open-Source Intelligence Gathering)
+wayBackLister – ★ 0 – Last updated May 21, 2025 – (Fork) Directory brute-forcing tool leveraging Wayback Machine data (WaybackLister v1.0). Tags: Reconnaissance, Web Discovery
+Just-Metadata – ★ 0 – Last updated May 1, 2025 – (Fork) Tool that gathers and analyzes metadata about IP addresses, finding relationships within large datasets. Tags: OSINT, Network Metadata
+web-check-2a706 – ★ 0 – Last updated Apr 5, 2025 – Original project. (Companion to web-check fork) – All-in-one OSINT tool for analyzing websites (custom version). Tags: OSINT, Web Analysis
+web-check – ★ 0 – Last updated Apr 5, 2025 – (Fork) All-in-one OSINT tool for analyzing any website (fork of Lissy93’s web-check). Tags: OSINT, Web Analysis
+smartrecon – ★ 0 – Last updated Apr 3, 2024 – (Fork) Powerful shell script to automate reconnaissance and find common vulnerabilities for bug bounty hunters. Tags: Reconnaissance, Bug Hunting
+PH-Recon – ★ 0 – Last updated Feb 19, 2024 – (Fork) Script to discover basic vulnerabilities automatically and facilitate manual analysis for bug hunting. Tags: Reconnaissance, Bug Hunting
+NotLoBi – ★ 0 – Last updated Sep 18, 2024 – (Fork) “COMPLETE OSINT CHEAT-SHEET” – a comprehensive cheat sheet for open-source intelligence techniques and tools. Tags: OSINT, Cheat Sheet
+OneDorkForAll – ★ 0 – Last updated Aug 23, 2024 – (Fork) Massive list of Google dorks aggregated from various sources (for finding sensitive info via search engines). Tags: Google Dorks, OSINT
+VigilantOnion – ★ 0 – Last updated Dec 13, 2021 – (Fork) Crawler for sites on the Tor network, searching for specified keywords (dark web OSINT). Tags: Dark Web, OSINT
+Mr.Holmes – ★ 0 – Last updated Mar 7, 2022 – (Fork) Complete OSINT tool for investigating targets (multiple information gathering techniques). Tags: OSINT, Investigation
+regex-for-OSINT – ★ 0 – Last updated Dec 5, 2022 – (Fork) List of tools and info resources to effectively use regular expressions in OSINT tasks. Tags: OSINT, Regex
+osint_stuff_tool_collection – ★ 0 – Last updated Apr 20, 2022 – (Fork) Collection of several hundred online tools useful for OSINT investigations. Tags: OSINT, Tool Collection
+onionscan – ★ 0 – Last updated Jul 8, 2021 – (Fork) Free open-source tool for investigating the Dark Web (scans Tor hidden services for analysis). Tags: Dark Web, OSINT
+WhatsMyName – ★ 0 – Last updated Jan 12, 2022 – (Fork) Unified data set for performing username enumeration on various websites (used for OSINT username checking). Tags: Username Enumeration, OSINT
+tor-ip-changer – ★ 0 – Last updated Oct 26, 2021 – (Fork) Script to request a new Tor circuit/identity every X seconds (for anonymity during scanning). Tags: Privacy, OSINT
+MetaOSINT.github.io – ★ 0 – Last updated Jun 21, 2022 – (Fork) Web-based OSINT platform (site) aggregating various OSINT tools and resources. Tags: OSINT, Web Platform
+tenssens – ★ 0 – Last updated Jan 15, 2022 – (Fork) Framework focused on gathering information from free OSINT resources (helps find free data sources). Tags: OSINT, Framework
+Katana – ★ 0 – Last updated Nov 30, 2021 – (Fork) Python script for Google dorking (automated Google search queries to find vulnerable targets). Tags: OSINT, Google Dorks
+Shodan-Quest – ★ 0 – Last updated Jan 15, 2022 – (Fork) Tool to search for vulnerable devices or specific services on Shodan using dorks or custom queries. Tags: IoT Search, OSINT
+TorCrawl.py – ★ 0 – Last updated Oct 27, 2020 – (Fork) Web crawler that extracts content from regular or onion (Tor) websites via the Tor network. Tags: Dark Web, Crawler, OSINT
+onioff – ★ 0 – Last updated Mar 16, 2019 – (Fork) Onion URL inspector for quickly checking the status and content of deep web (.onion) links. Tags: Dark Web, OSINT
+github-dorks – ★ 0 – Last updated May 13, 2019 – (Fork) Collection of GitHub search queries (“dorks”) to find sensitive information in public repositories. Tags: GitHub Dorks, OSINT
+hunting-scripts – ★ 0 – Last updated May 2, 2017 – Original project. Assorted helper scripts for bug bounty hunting (to automate recon and common checks). Tags: Bug Bounty, Reconnaissance
+
+
+Threat Intelligence & Malware Analysis
+Ransomware-Tool-Matrix – ★ 0 – Last updated Oct 2, 2024 – (Fork) Matrix listing tools utilized by various ransomware gangs (mapping group → tools used). Tags: Threat Intelligence, Ransomware
+awesome-iocs – ★ 0 – Last updated Oct 19, 2023 – (Fork) Collection of sources for Indicators of Compromise (IOCs) – a curated “Awesome” list. Tags: Threat Intelligence, IOC Sources
+deepdarkCTI – ★ 0 – Last updated Apr 28, 2022 – (Fork) Collection of cyber threat intelligence sources from the deep and dark web. Tags: Threat Intelligence, Dark Web
+Daily-dose-of-malware – ★ 0 – Last updated Jan 20, 2018 – (Fork) Script that gathers fresh malicious software samples and C2 server URLs from open sources (Malshare, Malcode, vxvault, etc.). Tags: Malware Collection, Threat Intelligence
+malc0de – ★ 0 – Last updated Jan 10, 2018 – Original project. Parser module for data from Malc0de.com (malware domain feed). Tags: Threat Intelligence, Malware Feeds
+Threat-Intelligence-Hunter – ★ 0 – Last updated Jul 9, 2018 – (Fork) “TIH” – an intelligence tool to search IOCs across multiple open security feeds and well-known APIs, for threat hunting. Tags: Threat Intelligence, IOC Search
+vti-dorks – ★ 0 – Last updated Jan 17, 2019 – (Fork) Awesome list of VirusTotal Intelligence search queries (dorks) for malware hunting on VT. Tags: Threat Intelligence, VirusTotal
+virustotal – ★ 0 – Last updated Mar 15, 2017 – (Fork) PHP library for the VirusTotal API, enabling programmatic submission and retrieval of scan results. Tags: VirusTotal, API
+ThreatPinchLookup – ★ 0 – Last updated Sep 8, 2018 – (Fork) Browser extension (Chrome/Firefox) that provides in-page lookup of threat intelligence data (hover text for IPs, domains, etc.). Tags: Threat Intelligence, Browser Tool
+automated-threat-intelligent-model – ★ 0 – Last updated Jan 23, 2019 – (Fork) Improvised automated threat intelligence system integrating vulnerability scanners and OSINT scripts (academic project). Tags: Threat Intelligence, Automation
+FlexiDie (flexidie) – ★ 0 – Last updated May 2, 2017 – (Fork) Source code and binaries from the leaked FlexiSpy spyware (“FlexiDie”) dump. Tags: Malware, Mobile Spyware
+yara-forensics – ★ 0 – Last updated May 4, 2017 – (Fork) Set of YARA rules for forensic file identification (searching files by magic headers, etc.). Tags: YARA, Malware Analysis
+yara-exporter – ★ 0 – Last updated Mar 24, 2017 – (Fork) Tool to export MISP threat intelligence attributes to YARA rules (for use with scanners like Thor APT scanner). Tags: Threat Intelligence, YARA
+Defensive Security & Monitoring (Blue Team, Incident Response, SIEM)
+securityonion-elastic – ★ 0 – Last updated Jan 5, 2019 – (Fork) Security Onion on Elastic Stack – configurations for running the Security Onion intrusion detection system with Elasticsearch/Logstash/Kibana. Tags: Blue Team, SIEM
+elastic_stack – ★ 0 – Last updated Dec 20, 2018 – (Fork) Pre-configured Elastic Stack (ELK) setup geared for security event analysis (from HASecuritySolutions). Tags: Logging, SIEM
+SOF-ELK (sof-elk) – ★ 0 – Last updated Dec 19, 2018 – (Fork) Configuration files for the SANS SOF-ELK VM (elastic stack tailored for forensics course FOR572). Tags: DFIR, SIEM
+DetectionLab – ★ 0 – Last updated Jan 15, 2022 – (Fork) Automated build scripts (Vagrant/Packer) to create a lab environment with common security tooling and logging best practices (for blue team exercises). Tags: Blue Team, Lab Environment
+tknk_scanner – ★ 0 – Last updated Dec 15, 2018 – (Fork) Community-based integrated malware identification system (BlackHat EU 2018 Arsenal tool). Tags: Malware Analysis, Network Monitoring
+VECTR – ★ 0 – Last updated Dec 18, 2021 – (Fork) VECTR platform for tracking red team vs blue team test activities and measuring detection coverage across attack scenarios. Tags: Purple Team, Metrics
+sublime-platform – ★ 0 – Last updated Jan 18, 2023 – (Fork) Open, adaptable email security platform (by Sublime Security) for detecting phishing and malicious emails. Tags: Email Security, Blue Team
+sublime-rules – ★ 0 – Last updated Dec 6, 2022 – (Fork) Detection rules and queries for the Sublime platform (phishing defense, DLP, compliance monitoring). Tags: Detection Rules, Email Security
+bro-long-connections – ★ 0 – Last updated Dec 5, 2018 – (Fork) Zeek (Bro) package to track and alert on long-lived network connections (possible stealth data transfers). Tags: Network Monitoring, Zeek
+brostash – ★ 0 – Last updated Dec 1, 2018 – (Fork) “Brostash”: Debian-based distro focusing on collecting network events (Zeek logs) and shipping them for analysis (Logstash/Filebeat integration). Tags: Network Security Monitoring, Zeek
+brostash-pipeline – ★ 0 – Last updated Nov 17, 2018 – (Fork) Logstash pipeline configurations for processing logs from Bro/Zeek (“brostash” pipeline). Tags: Log Analysis, Zeek
+bro-community-id – ★ 0 – Last updated Nov 28, 2018 – (Fork) Zeek (Bro) support for Community ID flow hashing (unifying network flow identifiers across tools). Tags: Network Monitoring, Zeek
+bro-quic – ★ 0 – Last updated Nov 14, 2018 – (Fork) Zeek analyzer to detect Google’s QUIC protocol on the network. Tags: Network Monitoring, Zeek
+IMDS – ★ 0 – Last updated Nov 4, 2018 – (Fork) Prototype using Bro to capture executable files at a network gateway and send them to analyzers for static/dynamic analysis. Tags: Network Forensics, Malware Capture
+CyLR – ★ 0 – Last updated Oct 31, 2018 – (Fork) Live Response collection tool – gathers critical forensic artifacts from hosts (for incident response). Tags: DFIR, Live Response
+firedrill – ★ 0 – Last updated Jan 23, 2022 – (Fork) Malware simulation harness for evaluating security controls (simulate attacks to test your detections). Tags: Adversary Simulation, Blue Team
+Aurora-Incident-Response – ★ 0 – Last updated Jan 11, 2022 – (Fork) Incident Response documentation templates and guides (developed by responders for responders). Tags: Incident Response, Documentation
+VulnWhisperer – ★ 0 – Last updated Jan 16, 2019 – (Fork) Tool to aggregate vulnerability scan results and feed them into reporting (like Splunk), to create actionable data. Tags: Vulnerability Management, Reporting
+tpotce – ★ 0 – Last updated Jan 14, 2019 – (Fork) T-Pot honeypot (Universal Installer & ISO Creator) – a platform for deploying honeypots and collecting attacker data. Tags: Honeypot, Threat Detection
+scan-NG – ★ 0 – Last updated Jan 11, 2019 – (Fork) Bro/Zeek detection policies (scan-NG policy scripts for detecting port scans and network scans). Tags: Network IDS, Zeek
+packages – ★ 0 – Last updated Jan 11, 2019 – (Fork) The default package source for the Zeek (Bro) Package Manager – contains community Bro scripts. Tags: Zeek, Repository
+hawkeye – ★ 0 – Last updated Jun 21, 2018 – (Fork) Security scanning CLI tool for projects (checks for vulnerabilities, misconfigs, etc.). Tags: DevSecOps, Vulnerability Scanning
+log-add-vlan-everywhere – ★ 0 – Last updated Nov 8, 2017 – (Fork) Zeek script to add VLAN tag information to all logs (to incorporate VLAN data into Bro logs). Tags: Zeek, Network Logs
+log-add-http-post-bodies – ★ 0 – Last updated Oct 13, 2017 – (Fork) Zeek script to extract and log HTTP POST bodies in Zeek’s HTTP log (useful for detecting data exfiltration via POST). Tags: Zeek, HTTP Monitoring
+top-dns – ★ 0 – Last updated Sep 18, 2017 – (Fork) Zeek script for measuring top DNS queries (detect suspicious DNS patterns). Tags: DNS Monitoring, Zeek
+phish-analysis – ★ 0 – Last updated Sep 13, 2017 – (Fork) Suite of Zeek policies for SMTP traffic: extracts URLs from emails and detects anomalies to flag phishing attempts. Tags: Email Security, Zeek
+bro-protosigs – ★ 0 – Last updated Feb 7, 2017 – (Fork) Purely signature-based protocol detection scripts for Bro (instead of dynamic detection). Tags: Network IDS, Zeek
+bro-elk – ★ 0 – Last updated Feb 2, 2017 – (Fork) Integration of Bro IDS with the ELK stack (instructions and configs to feed Bro logs into Elasticsearch/Logstash). Tags: Network Monitoring, SIEM
+bro-phishing – ★ 0 – Last updated Feb 1, 2017 – (Fork) Zeek (Bro) package for detecting phishing activity on the network. Tags: Network Security, Zeek
+language-bro – ★ 0 – Last updated Jan 29, 2017 – (Fork) Bro syntax highlighting support (likely for text editors, to ease writing Zeek scripts). Tags: Development Tool, Zeek
+CDMCS – ★ 0 – Last updated Feb 20, 2017 – (Fork) Cyber Defense Monitoring Course Suite – an environment bundling Suricata, Bro, Moloch etc., for learning monitoring. Tags: Training, Monitoring
+ProbeManager – ★ 0 – Last updated Jul 21, 2018 – (Fork) Centralized management system for IDS sensors (Suricata, Bro, OSSEC, etc.). Tags: IDS Management, Blue Team
+docker_offensive_elk – ★ 0 – Last updated Jul 16, 2018 – (Fork) Docker-compose setup of Elasticsearch/Logstash/Kibana tailored for offensive security logs (log analysis for red team operations). Tags: Logging, ELK Stack
+dockerized-elk – ★ 0 – Last updated Aug 31, 2017 – (Fork) Docker Compose configuration for spinning up an ELK stack (Elasticsearch, Logstash, Kibana) quickly. Tags: Logging, DevOps
+
+
+Miscellaneous & Learning
+andr6 – ★ 0 – Last updated Jun 3, 2025 – Profile repository. Contains the user’s GitHub profile README (overview and info about andr6). Tags: Profile
+Others – ★ 0 – Last updated Mar 11, 2025 – Original project. A miscellaneous repository (various scripts or content not categorized elsewhere). Tags: Misc
+Stirling-PDF – ★ 0 – Last updated Mar 19, 2025 – (Fork) Locally hosted web application to perform various operations on PDF files. Tags: Utility, PDF
+ambar – ★ 0 – Last updated Jan 15, 2022 – (Fork) Ambar: Document search engine and indexing system (not security-specific, general document management). Tags: Search Engine, Documents
+Silence – ★ 0 – Last updated Feb 28, 2021 – (Fork) Encrypted SMS/MMS messaging app for Android (SilenceIM) – a privacy-focused communication tool. Tags: Privacy, Encryption
+EIE-Notes – ★ 0 – Last updated Mar 29, 2020 – (Fork) Electronics and Information Engineering lecture notes (unrelated to cybersecurity). Tags: Education, Notes
+scholar.py – ★ 0 – Last updated Dec 3, 2018 – (Fork) Python parser for Google Scholar results (retrieves academic publication info). Tags: Utility, Parser
+SANDBOX – ★ 0 – Last updated Nov 8, 2018 – Original project. Personal sandbox repository for code snippets, experiments, and miscellaneous projects. Tags: Misc, Sandbox
+netdata – ★ 0 – Last updated Apr 22, 2018 – (Fork) Netdata real-time performance monitoring tool for servers (DevOps monitoring utility). Tags: Monitoring, DevOps
+data – ★ 0 – Last updated Feb 8, 2018 – Original project. Placeholder repository titled “data” (may contain data sets or configuration files). Tags: Misc
+logstash – ★ 0 – Last updated May 22, 2017 – (Fork) Elastic’s Logstash data processing pipeline tool (forked likely for customization or experimentation). Tags: Data Processing, Logging
