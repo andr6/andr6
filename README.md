@@ -22,7 +22,7 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Andr6
+name: Andre
 located_in: Europe - Planet Earth 
 current_job: Customer Advocate | Cybersecurity Person | AGI Enthusiastic
 education:
@@ -35,26 +35,32 @@ company: Hum
 
 fields_of_interests:
   [
-    "Malware Analysis Techniques",
-    "Incident Response Playbooks.",
+    "Technology"
+    "Cyber Security"
     "Red Team Operations and Adversary Simulation",
     "Blue Team Monitoring and Threat Hunting",
     "Purple Teaming: Bridging Offense and Defense",
-    "Attack Surface",
-    "Thread Intel"
     "Customer Success Management in Cybersecurity"
     "Data Science",
     "Machine Learning",
+    "Artificial Intelligence"
  ]
 technical_background:
   [
-    "Enterprise Account Management "
+    "Cybersecurity"
+    "Enterprise Technical Management "
+    "Collaboration & Escalation Management",
     "Risk Management & Cyber Threat Analysis",
     "Technical Reporting & Metrics Analysis",
-    "Incident Handling & Problem Resolution",
-    "Collaboration & Escalation Management",
+    "Networks"
+    "Cloud"
+    "Internet of Things (IoT)"
+    "APIs (Application Programming Interfaces)"
+    "Automation and Process Management"
+    "IT Governance and Management"
     "Cybersecurity Operations",
     "Defensive & Offensive Security Techniques",
+    "Artificial Intelligence and Machine Learning"
     "Artificial Intelligence in Cybersecurity",
   ]
   
