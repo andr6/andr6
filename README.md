@@ -16,7 +16,6 @@
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
 <p>"The biggest thing people can do to protect themselves is to listen to that voice in the back of their head saying something feels off." - Jason E. Street</p>
-<p>I’m passionate about breaking down complex security challenges into clear, practical solutions that make a real difference in defending against cyber threats.</p>
 
 ---
 
